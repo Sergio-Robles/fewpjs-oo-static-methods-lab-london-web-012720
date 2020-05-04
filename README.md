@@ -1,6 +1,6 @@
 # Static Methods Lab
 
-## Learning Goals
+## Learning Goals    
 
 - Write JavaScript `static` methods
 
